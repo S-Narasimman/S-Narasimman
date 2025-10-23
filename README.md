@@ -1,4 +1,8 @@
-![Coding Work From Home GIF by Domme Space](https://github.com/user-attachments/assets/735fadf1-6d1c-48c9-937a-dc0bda9ce696)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/735fadf1-6d1c-48c9-937a-dc0bda9ce696" alt="Coding Work From Home GIF by Domme Space" width="600">
+</div>
+
+---
 
 ### 🚀 About Me
 
