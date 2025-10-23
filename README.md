@@ -25,21 +25,6 @@ I’m always curious to understand *why* something happened and *how* it came ab
 
 ---
 
-### 📊 Projects
-
-* **🚚 FedEx Logistics Performance Analysis:**
-  Conducted in-depth analysis of FedEx Logistics data using **Pandas, Matplotlib, Seaborn, and Plotly** to explore shipping efficiency, delivery patterns, and operational performance.
-
-* **🛒 Zepto Inventory SQL Data Analysis:**
-  Performed SQL-based data cleaning and analysis on Zepto’s dataset to uncover insights on product pricing, discount trends, and category-level stock performance.
-
-* **🏡 Airbnb Chicago & New Orleans Analysis:**
-  Analyzed Airbnb listings across two cities using **Power BI** and **Python (Pandas)** to reveal market trends, host behaviors, and price variation patterns.
-
-Each project showcases my ability to extract, clean, and visualize real-world datasets to deliver clear, actionable insights.
-
----
-
 ### 🧩 Currently Exploring
 
 * Advanced DAX for Power BI
