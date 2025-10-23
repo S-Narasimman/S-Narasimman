@@ -11,7 +11,7 @@ I’m always curious to understand *why* something happened and *how* it came ab
 ### 🧠 Core Skills
 
 * **Data Analysis:** Excel, SQL, Python, Power BI
-* **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+* **Visualization:** Power BI, Matplotlib, Seaborn, Plotly, Streamlit
 * **Data Handling:** Pandas, NumPy
 * **Database Management:** MySQL, PostgreSQL
 * **Statistics & Insights:** Correlation, Hypothesis Testing, Trend Analysis
@@ -62,7 +62,7 @@ Each project showcases my ability to extract, clean, and visualize real-world da
 
 ### 💡 Quote I Live By
 
-> "Without data, you're just another person with an opinion." – W. Edwards Deming
+> "Curiosity turns data into insight — that’s what drives me every day."
 
 ---
 
