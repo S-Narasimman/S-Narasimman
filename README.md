@@ -1,18 +1,10 @@
-# 👋 Hi there, I'm Narasimman S
-
-🎯 **Data Analyst | Data Storyteller | Insight Seeker**
-📍 Based in **Chennai, India**
-💡 Passionate about turning raw data into impactful insights and visual stories.
-
----
-
 ### 🚀 About Me
 
-I’m a **Data Analyst** with a strong foundation in data cleaning, visualization, and statistical analysis.
-With hands-on experience in **SQL, Excel, Power BI, Python (Pandas, NumPy, Matplotlib, Seaborn)**,
-I love uncovering patterns and insights that drive better decision-making.
+I’m an **Aspiring Data Analyst** passionate about exploring data, identifying trends, and transforming findings into actionable insights.
+With hands-on project experience using **SQL, Excel, Power BI, and Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit)**,
+I enjoy bridging logic and creativity — finding meaning in data and communicating it through impactful dashboards and visuals.
 
-I’m always curious about the "why" behind data and enjoy creating dashboards that make complex information easy to understand.
+I’m always curious to understand *why* something happened and *how* it came about, so I can identify *what* to do to either reinforce or correct it — turning curiosity into clarity and clarity into action.
 
 ---
 
@@ -27,12 +19,26 @@ I’m always curious about the "why" behind data and enjoy creating dashboards t
 
 ---
 
+### 📊 Projects
+
+* **🚚 FedEx Logistics Performance Analysis**
+  Conducted in-depth analysis of FedEx Logistics data using **Pandas, Matplotlib, Seaborn, and Plotly** to explore shipping efficiency, delivery patterns, and operational performance.
+
+* **🛒 Zepto Inventory SQL Data Analysis**
+  Performed SQL-based data cleaning and analysis on Zepto’s dataset to uncover insights on product pricing, discount trends, and category-level stock performance.
+
+* **🏡 Airbnb Chicago & New Orleans Analysis**
+  Analyzed Airbnb listings across two cities using **Power BI** and **Python (Pandas)** to reveal market trends, host behaviors, and price variation patterns.
+
+Each project showcases my ability to extract, clean, and visualize real-world datasets to deliver clear, actionable insights.
+
+---
+
 ### 🧩 Currently Exploring
 
 * Advanced DAX for Power BI
 * Time Series Forecasting
 * Data storytelling through dashboards
-* Open-source data visualization contributions
 
 ---
 
