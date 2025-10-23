@@ -1,3 +1,5 @@
+![Coding Work From Home GIF by Domme Space](https://github.com/user-attachments/assets/735fadf1-6d1c-48c9-937a-dc0bda9ce696)
+
 ### 🚀 About Me
 
 I’m an **Aspiring Data Analyst** passionate about exploring data, identifying trends, and transforming findings into actionable insights.
